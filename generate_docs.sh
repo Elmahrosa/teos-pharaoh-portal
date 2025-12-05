@@ -1,4 +1,5 @@
-#!/bin/bash
+ #!/usr/bin/env bash
+set -e
 
 BASE="docs"
 
@@ -29,15 +30,15 @@ mkdir -p "$BASE"
 for DIR in "${!STRUCTURE[@]}"; do
   TARGET="$BASE/$DIR"
   mkdir -p "$TARGET"
-
   for FILE in ${STRUCTURE[$DIR]}; do
     FILEPATH="$TARGET/$FILE"
-    if [ ! -f "$FILEPATH" ]; then
+    if [ ! -e "$FILEPATH" ]; then
       echo "# ${FILE%.*}" > "$FILEPATH"
       echo "Created: $FILEPATH"
+    else
+      echo "Skipped (already exists): $FILEPATH"
     fi
   done
 done
 
-echo "✔ Documentation structure generated successfully!"
-
+echo "✔ Documentation skeleton generated under '$BASE/'"
