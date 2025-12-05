@@ -1,7 +1,10 @@
- #!/usr/bin/env bash
+#!/usr/bin/env bash
 set -e
 
 BASE="docs"
+
+# Create docs directory safely
+mkdir -p "$BASE"
 
 declare -A STRUCTURE=(
   ["introduction"]="OVERVIEW.md VISION.md GLOSSARY.md FAQ.md"
@@ -25,13 +28,13 @@ declare -A STRUCTURE=(
   ["changelog"]="v1.md v2.md v2.1.md"
 )
 
-mkdir -p "$BASE"
-
 for DIR in "${!STRUCTURE[@]}"; do
   TARGET="$BASE/$DIR"
   mkdir -p "$TARGET"
+
   for FILE in ${STRUCTURE[$DIR]}; do
     FILEPATH="$TARGET/$FILE"
+
     if [ ! -e "$FILEPATH" ]; then
       echo "# ${FILE%.*}" > "$FILEPATH"
       echo "Created: $FILEPATH"
@@ -41,4 +44,4 @@ for DIR in "${!STRUCTURE[@]}"; do
   done
 done
 
-echo "✔ Documentation skeleton generated under '$BASE/'"
+echo "✔ Documentation structure generated successfully!"
