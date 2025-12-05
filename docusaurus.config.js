@@ -1,8 +1,6 @@
-cat > docusaurus.config.js << 'EOF'
 // docusaurus.config.js
-import { defineConfig } from 'docusaurus';
-
-export default defineConfig({
+/** @type {import('@docusaurus/types').Config} */
+const config = {
   title: 'Teos Pharaoh Portal',
   tagline: 'Comprehensive documentation for the TEOS ecosystem',
   url: 'https://your-site.com',
@@ -29,5 +27,6 @@ export default defineConfig({
       },
     ],
   ],
-});
-EOF
+};
+
+module.exports = config;
