@@ -1,7 +1,7 @@
 // sidebars.ts
-import type { SidebarsConfig } from '@docusaurus/plugin-content-docs';
+import { SidebarConfig } from '@docusaurus/plugin-content-docs';
 
-const sidebars: SidebarsConfig = {
+const sidebars: SidebarConfig = {
   docs: [
     {
       type: 'category',
@@ -9,80 +9,19 @@ const sidebars: SidebarsConfig = {
       items: [
         'introduction/OVERVIEW',
         'introduction/VISION',
-        'introduction/GLOSSARY',
         'introduction/FAQ',
+        'introduction/GLOSSARY',
       ],
     },
     {
       type: 'category',
-      label: 'Sovereign Legal',
+      label: 'AI Automation',
       items: [
-        'sovereign-legal/LICENSE',
-        'sovereign-legal/SOVEREIGN-DECREE',
-        'sovereign-legal/ACCESS-RESTRICTIONS',
-        'sovereign-legal/DATA-SOVEREIGNTY',
-        'sovereign-legal/COMPLIANCE-OBLIGATIONS',
-        'sovereign-legal/AUDIT-GUIDELINES',
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Architecture',
-      items: [
-        'architecture/HIGH-LEVEL',
-        'architecture/BANKCHAIN-ROUTING',
-        'architecture/CIVICCHAIN-FLOW',
-        'architecture/MULTI-CHAIN-EXECUTION',
-        'architecture/PI-ECOSYSTEM-INTEGRATION',
-        'architecture/DATA-FLOW-DIAGRAMS',
-        'architecture/INFRASTRUCTURE-MAPS',
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Identity',
-      items: [
-        'identity/IDENTITY-FRAMEWORK',
-        'identity/WALLET-CONNECT',
-        'identity/CITIZEN-ACCESS',
-        'identity/INSTITUTION-ACCESS',
-        'identity/AUTHENTICATION-FLOWS',
-        'identity/KYC-AML-PROCEDURES',
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Bankchain',
-      items: [
-        'bankchain/OVERVIEW',
-        'bankchain/FIAT-CRYPTO-RAILS',
-        'bankchain/ISO20022-PIPELINES',
-        'bankchain/SETTLEMENT-FLOWS',
-        'bankchain/COMPLIANCE-ENGINE',
-        'bankchain/AI-MONITORING',
-        'bankchain/API-GUIDE',
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Civicchain',
-      items: [
-        'civicchain/GOVERNANCE-MODEL',
-        'civicchain/VOTING-PROTOCOL',
-        'civicchain/PUBLIC-RECORDS',
-        'civicchain/CIVIC-MIXER',
-        'civicchain/CONSTITUTION-INTEGRATION',
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Smart City',
-      items: [
-        'smart-city/PI-SMART-CITY',
-        'smart-city/PITAXI',
-        'smart-city/ELMAHROSA-MAP',
-        'smart-city/GEO-IOT',
-        'smart-city/CITY-DASHBOARDS',
+        'ai-automation/AI-AUDITOR',
+        'ai-automation/AUTOVERIFICATION',
+        'ai-automation/FRAUD-DETECTION',
+        'ai-automation/RISK-SCORING',
+        'ai-automation/SERVICE-RECOMMENDER',
       ],
     },
     {
@@ -94,43 +33,88 @@ const sidebars: SidebarsConfig = {
         'apis/RATE-LIMITS',
         {
           type: 'category',
-          label: 'REST',
+          label: 'REST APIs',
           items: [
+            'apis/rest/ADMIN-REST',
             'apis/rest/BANKCHAIN-REST',
             'apis/rest/CIVICCHAIN-REST',
             'apis/rest/IDENTITY-REST',
-            'apis/rest/ADMIN-REST',
           ],
         },
         {
           type: 'category',
-          label: 'WebSocket',
+          label: 'WebSocket APIs',
           items: [
-            'apis/websocket/STREAMS',
             'apis/websocket/EVENT-TYPES',
+            'apis/websocket/STREAMS',
           ],
         },
         {
           type: 'category',
-          label: 'Blockchain',
+          label: 'Blockchain APIs',
           items: [
-            'apis/blockchain/SOLANA-PROGRAMS',
-            'apis/blockchain/PI-NETWORK',
             'apis/blockchain/ELMAHROSA-CHAIN',
+            'apis/blockchain/PI-NETWORK',
+            'apis/blockchain/SOLANA-PROGRAMS',
           ],
         },
       ],
     },
     {
       type: 'category',
-      label: 'Security',
+      label: 'Architecture',
       items: [
-        'security/SECURITY-MODEL',
-        'security/ENCRYPTION',
-        'security/THREAT-MODEL',
-        'security/INCIDENT-RESPONSE',
-        'security/PENETRATION-GUIDELINES',
-        'security/AUDIT-TRAILS',
+        'architecture/HIGH-LEVEL',
+        'architecture/DATA-FLOW-DIAGRAMS',
+        'architecture/CIVICCHAIN-FLOW',
+        'architecture/BANKCHAIN-ROUTING',
+        'architecture/INFRASTRUCTURE-MAPS',
+        'architecture/MULTI-CHAIN-EXECUTION',
+        'architecture/PI-ECOSYSTEM-INTEGRATION',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Bankchain',
+      items: [
+        'bankchain/OVERVIEW',
+        'bankchain/API-GUIDE',
+        'bankchain/AI-MONITORING',
+        'bankchain/COMPLIANCE-ENGINE',
+        'bankchain/FIAT-CRYPTO-RAILS',
+        'bankchain/ISO20022-PIPELINES',
+        'bankchain/SETTLEMENT-FLOWS',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Branding',
+      items: [
+        'branding/BRAND-GUIDE',
+        'branding/LOGO-USAGE',
+        'branding/COLOR-SYSTEM',
+        'branding/TYPOGRAPHY',
+        'branding/UI-COMPONENTS',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Changelog',
+      items: [
+        'changelog/v1',
+        'changelog/v2',
+        'changelog/v2.1',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Civicchain',
+      items: [
+        'civicchain/CONSTITUTION-INTEGRATION',
+        'civicchain/CIVIC-MIXER',
+        'civicchain/GOVERNANCE-MODEL',
+        'civicchain/PUBLIC-RECORDS',
+        'civicchain/VOTING-PROTOCOL',
       ],
     },
     {
@@ -140,31 +124,9 @@ const sidebars: SidebarsConfig = {
         'deployment/LOCAL-SETUP',
         'deployment/STAGING',
         'deployment/PRODUCTION',
-        'deployment/VERSEL-DEPLOY',
-        'deployment/DOCKER-CONTAINERS',
         'deployment/CLOUD-INFRA',
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Operations',
-      items: [
-        'operations/MONITORING',
-        'operations/LOGGING',
-        'operations/BACKUPS',
-        'operations/FAILOVER',
-        'operations/MAINTENANCE',
-      ],
-    },
-    {
-      type: 'category',
-      label: 'AI Automation',
-      items: [
-        'ai-automation/AI-AUDITOR',
-        'ai-automation/RISK-SCORING',
-        'ai-automation/FRAUD-DETECTION',
-        'ai-automation/AUTOVERIFICATION',
-        'ai-automation/SERVICE-RECOMMENDER',
+        'deployment/DOCKER-CONTAINERS',
+        'deployment/VERSAL-DEPLOY',
       ],
     },
     {
@@ -179,13 +141,25 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
-      label: 'Branding',
+      label: 'Identity',
       items: [
-        'branding/BRAND-GUIDE',
-        'branding/LOGO-USAGE',
-        'branding/UI-COMPONENTS',
-        'branding/TYPOGRAPHY',
-        'branding/COLOR-SYSTEM',
+        'identity/AUTHENTICATION-FLOWS',
+        'identity/IDENTITY-FRAMEWORK',
+        'identity/KYC-AML-PROCEDURES',
+        'identity/CITIZEN-ACCESS',
+        'identity/INSTITUTION-ACCESS',
+        'identity/WALLET-CONNECT',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Operations',
+      items: [
+        'operations/BACKUPS',
+        'operations/FAILOVER',
+        'operations/LOGGING',
+        'operations/MAINTENANCE',
+        'operations/MONITORING',
       ],
     },
     {
@@ -199,11 +173,37 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
-      label: 'Changelog',
+      label: 'Security',
       items: [
-        'changelog/v1',
-        'changelog/v2',
-        'changelog/v2.1',
+        'security/AUDIT-TRAILS',
+        'security/ENCRYPTION',
+        'security/INCIDENT-RESPONSE',
+        'security/PENETRATION-GUIDELINES',
+        'security/SECURITY-MODEL',
+        'security/THREAT-MODEL',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Smart City',
+      items: [
+        'smart-city/CITY-DASHBOARDS',
+        'smart-city/ELMAHROSA-MAP',
+        'smart-city/GEO-IOT',
+        'smart-city/PI-SMART-CITY',
+        'smart-city/PITAXI',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Sovereign Legal',
+      items: [
+        'sovereign-legal/ACCESS-RESTRICTIONS',
+        'sovereign-legal/AUDIT-GUIDELINES',
+        'sovereign-legal/COMPLIANCE-OBLIGATIONS',
+        'sovereign-legal/DATA-SOVEREIGNTY',
+        'sovereign-legal/LICENSE',
+        'sovereign-legal/SOVEREIGN-DECREE',
       ],
     },
   ],
