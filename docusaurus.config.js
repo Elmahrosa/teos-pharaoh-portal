@@ -1,19 +1,18 @@
+cat > docusaurus.config.js << 'EOF'
 // docusaurus.config.js
-// Docs: https://docusaurus.io/docs/configuration
 import { defineConfig } from 'docusaurus';
 
 export default defineConfig({
   title: 'Teos Pharaoh Portal',
   tagline: 'Comprehensive documentation for the TEOS ecosystem',
-  url: 'https://your-site.com',  // Replace with your site URL
+  url: 'https://your-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico', // Place a favicon in /static/img/
+  favicon: 'img/favicon.ico',
 
-  // GitHub pages deployment config
-  organizationName: 'Elmahrosa', // Your GitHub org/user name
-  projectName: 'Teos-Pharaoh-Portal', // Repo name
+  organizationName: 'Elmahrosa',
+  projectName: 'Teos-Pharaoh-Portal',
 
   presets: [
     [
@@ -23,7 +22,7 @@ export default defineConfig({
           sidebarPath: require.resolve('./sidebars.ts'),
           editUrl: 'https://github.com/Elmahrosa/Teos-Pharaoh-Portal/edit/main/',
         },
-        blog: false, // Disable blog if not needed
+        blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -31,3 +30,4 @@ export default defineConfig({
     ],
   ],
 });
+EOF
