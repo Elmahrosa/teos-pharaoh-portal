@@ -1,28 +1,33 @@
 // docusaurus.config.js
-module.exports = {
+// Docs: https://docusaurus.io/docs/configuration
+import { defineConfig } from 'docusaurus';
+
+export default defineConfig({
   title: 'Teos Pharaoh Portal',
-  tagline: 'Official Documentation',
-  url: 'http://localhost:3000',
+  tagline: 'Comprehensive documentation for the TEOS ecosystem',
+  url: 'https://your-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
-  organizationName: 'Elmahrosa',
-  projectName: 'Teos-Pharaoh-Portal',
+  favicon: 'img/favicon.ico', // optional, you can place a favicon in /static/img/
+
+  // GitHub pages deployment config
+  organizationName: 'Elmahrosa', // Usually your GitHub org/user name.
+  projectName: 'Teos-Pharaoh-Portal', // Usually repo name.
+
   presets: [
     [
       '@docusaurus/preset-classic',
       {
         docs: {
-          path: 'docs',
-          routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.ts'),
-          editUrl: undefined,
+          editUrl: 'https://github.com/Elmahrosa/Teos-Pharaoh-Portal/edit/main/',
         },
+        blog: false, // disable blog if you don't need it
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
       },
     ],
   ],
-};
+});
