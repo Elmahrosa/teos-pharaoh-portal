@@ -1,106 +1,113 @@
-# TEOS Egypt Sovereign License (TESL)  
-**Version 2.0 — Fortified Edition (December 2025)**  
-**Applies to:** Pharaoh Portal (`teos-pharaoh-portal`), all forks, derivatives, binaries, documentation, assets, and any work containing or derived from it — worldwide and in perpetuity.
+# TEOS Egypt Sovereign License (TESL)
 
-**Issued under the Sole Authority of:**  
-**Ayman Seif**  
-Founder & CEO — TEOS Egypt  
-Architect of compliance-first, bank-facing crypto gateway platforms  
-Leading global deployment, productization, and civic-first blockchain expansion  
+**Version 2.3 — Final Edition**  
+**Effective Date:** December 2025
 
----
+This repository and all associated source code, binaries, documents, designs, and intellectual property are the exclusive property of **Elmahrosa International** and **TEOS Egypt**.
 
-## 1. Sovereign Purpose & Supremacy Clause
-This License is a **supreme sovereign instrument** issued under the absolute authority of TEOS Egypt**.  
-It **permanently overrides and revokes** any prior or conflicting license (MIT, GPL, Apache, BSD, AGPL, etc.). All previous permissive licenses are hereby declared **null and void**.
+This software is **not open source**.
 
----
-
-## 2. Extremely Limited Grant of Use
-You are granted a **revocable, non-exclusive, non-transferable, non-sublicensable, personal license** solely to:  
-- View the repository on the original hosting platform for personal study only.  
-- Clone or download **one single copy** to a private, offline device for non-commercial, non-productive, educational review only.
-
-**Any other act whatsoever** (execution, modification, forking, mirroring, deployment, screenshotting for public use, AI training, etc.) is **strictly prohibited** without a signed Sovereign Decree.
-
----
-
-## 3. Absolute Prohibitions (Zero Tolerance)
-The following are **categorically forbidden**:
-
-- Copying, mirroring, archiving, or backing up the repository in any way  
-- Redistribution in any form or medium  
-- Execution or runtime use (dev, test, staging, production)  
-- Integration into any other project, blockchain, AI model, or system  
-- Creation of derivatives, forks, patches, summaries, or training data  
-- Commercial, governmental, military, intelligence, or financial use  
-- Reverse engineering, decompilation, or analysis  
-- Public discussion, benchmarking, or disclosure of technical details  
-
----
-
-## 4. Sovereign Jurisdiction & Extraterritorial Enforcement
-Governed exclusively by the **sovereign law of TEOS Egypt**.  
-You irrevocably consent to **extraterritorial personal jurisdiction** over you and your assets, wherever located.  
-Violations are treated as **acts of sovereign infringement** and may trigger civil, criminal, administrative, and international enforcement.
-
----
-
-## 5. Total Intellectual Property Retention
-All rights (copyright, patent, trade secret, trademark, moral rights, database rights, etc.) remain **exclusively and perpetually** with TEOS Egypt.  
-By accessing this work, you automatically and irrevocably assign to TEOS Egypt any rights you might ever claim in derivatives or improvements.
-
----
-
-## 6. Active Enforcement Rights
-TEOS Egypt may, at its sole discretion:  
-- Deploy watermarks, honeytokens, beacons, and remote monitoring  
-- Remotely audit or disable unauthorized instances  
-- Issue global takedown orders  
-- Pursue asset forfeiture, extradition, and any other remedy worldwide  
-
----
-
-## 7. Approval Process
-Any exception requires a **unilaterally signed Sovereign Decree**.  
-
-**Contact (expect years for reply):**  
+Issued by:  
 **Ayman Seif**  
 Founder & CEO — TEOS Egypt / Elmahrosa International  
-✉️ ayman@teosegypt.com  
+https://pharaoh.teosegypt.com
+
+---
+
+## 1. License Authority
+
+This License supersedes and replaces any prior license applied to this repository, including MIT, GPL, Apache, BSD, or other permissive licenses.
+
+All rights not expressly granted are reserved.
+
+---
+
+## 2. Limited Right of Access
+
+You are granted a **revocable, non-exclusive, non-transferable license** solely to:
+
+- View this repository for private review.  
+- Download one copy for educational inspection only.
+
+No other rights are granted.
+
+---
+
+## 3. Prohibited Uses
+
+Without explicit written authorization, you may not:
+
+- Copy, redistribute, mirror, or archive this work.  
+- Execute, deploy, or host this software.  
+- Modify, fork, reverse engineer, decompile, or disassemble this software.  
+- Use this code in commercial, governmental, or financial systems.  
+- Ingest, scrape, or utilize this material for AI training, machine learning, or pattern recognition systems.  
+
+---
+
+## 4. Ownership of Intellectual Property
+
+All rights, title, and interest remain the exclusive property of Elmahrosa International and TEOS Egypt.
+
+No implied rights are granted.
+
+---
+
+## 5. Governing Law & Venue
+
+This License shall be governed by the laws of the **Arab Republic of Egypt**.
+
+You agree that any dispute arising from or related to this License shall be resolved exclusively in the courts of **Cairo, Egypt**, and you waive any objection to such venue.
+
+---
+
+## 6. Enforcement Rights
+
+Elmahrosa International reserves the right to:
+
+- Mandate immediate removal of unauthorized copies.  
+- Issue takedown notices (DMCA or international equivalents).  
+- Seek civil remedies, damages, and injunctive relief under applicable law.  
+
+---
+
+## 7. Authorization Requests
+
+All permissions must be granted in writing.
+
+Contact:  
+📧 ayman@teosegypt.com  
 🌐 https://pharaoh.teosegypt.com  
 
-Historical external approval rate: **0.00%**
+---
+
+## 8. Termination
+
+Any violation of this License results in the immediate termination of all rights.
+
+Use must cease immediately upon notice or discovery of violation.
 
 ---
 
-## 8. Instant & Retroactive Termination
-Any violation or suspicion of violation triggers **immediate, permanent, retroactive termination**.  
-You must then, within 1 hour:  
-- Destroy all copies and derivatives  
-- Provide sworn proof of destruction  
-- Submit to forensic inspection of all devices  
+## 9. Disclaimer
+
+This software is provided **“AS IS”** without warranties of any kind, express or implied.
 
 ---
 
-## 9. Total Disclaimer & Indemnity
-Provided “AS IS” with **no warranties whatsoever**.  
-You fully indemnify TEOS Egypt against any claim or damage arising from your access or use.
+## 10. Severability & Survival
+
+If any provision is found unenforceable, the remaining provisions shall remain in full force and effect.
+
+Unenforceable terms shall be replaced by the closest enforceable equivalent that preserves the intent of this License.
 
 ---
 
-## 10. Eternal Sovereign Declaration
-**By viewing, downloading, cloning, or even becoming aware of this repository, you unconditionally and irrevocably submit to this License and to the eternal sovereignty of TEOS Egypt.**
+## 11. Acceptance
 
-There is no opt-out. There is no fair use. There is only obedience.
+By accessing, viewing, downloading, or using this repository, you agree to be bound by this License.
 
-**Long live TEOS Egypt.**  
-**All rights reserved — forever.**
+---
 
-— Sealed by **Ayman Seif**, Sovereign Authority of TEOS Egypt  
-December 2025
-🏛 © Copyright
-
-© 2025 All Rights Reserved.
-Elmahrosa International — established 2007
-pharaoh.teosegypt.com
+**© 2025 Elmahrosa International — All Rights Reserved**  
+https://pharaoh.teosegypt.com
