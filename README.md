@@ -10,6 +10,12 @@ Part of the **TEOS Egypt Blockchain Ecosystem** — a unified civil, financial, 
 
 ## 🔰 Badges
 
+![TEOS](https://img.shields.io/badge/TEOS-Blockchain%20Ecosystem-gold?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
+![License](https://img.shields.io/badge/License-TEOS%20Gov-blue?style=for-the-badge)
+![Pi](https://img.shields.io/badge/Pi%20Network-Integrated-orange?style=for-the-badge)
+![Solana](https://img.shields.io/badge/Solana-SPL%20Ready-purple?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI-Guardian-black?style=for-the-badge)
 ![Sovereign Protected](https://img.shields.io/badge/Sovereign-Protected-red?style=for-the-badge\&logo=shield)
 ![License: TEOS Egypt Sovereign](https://img.shields.io/badge/License-TEOS%20Egypt%20Sovereign-gold?style=for-the-badge\&logo=book)
 [![Contact: ayman@teosegypt.com](https://img.shields.io/badge/Contact-ayman%40teosegypt.com-green?style=for-the-badge\&logo=minutemailer)](mailto:ayman@teosegypt.com)
