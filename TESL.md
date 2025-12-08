@@ -111,3 +111,4 @@ By accessing, viewing, downloading, or using this repository, you agree to be bo
 
 **© 2025 Elmahrosa International — All Rights Reserved**  
 https://pharaoh.teosegypt.com
+Part of the TEOS Egypt Blockchain Ecosystem — a unified civil, financial, and smart-city infrastructure powering digital banking, civic governance, DeFi, Pi integration, and national blockchain services.
