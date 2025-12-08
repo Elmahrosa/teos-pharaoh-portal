@@ -1,0 +1,30 @@
+<svg width="880" height="520" xmlns="http://www.w3.org/2000/svg">
+  <rect width="880" height="520" fill="#0A0A0A"/>
+  <text x="50%" y="50" fill="#FFD700" font-size="28" text-anchor="middle">
+    TEOS PHARAOH PORTAL — SYSTEM ARCHITECTURE
+  </text>
+
+  <!-- Layer 1 -->
+  <rect x="40" y="90" width="800" height="80" fill="#111" stroke="#FFD700"/>
+  <text x="50%" y="135" fill="white" font-size="20" text-anchor="middle">
+    TEOS Wallet • TEOS Identity • TEOS Authentication
+  </text>
+
+  <!-- Layer 2 -->
+  <rect x="40" y="190" width="800" height="80" fill="#111" stroke="#00D1FF"/>
+  <text x="50%" y="235" fill="white" font-size="20" text-anchor="middle">
+    TEOS BankChain • Pi Network Bridge • Payment Rail
+  </text>
+
+  <!-- Layer 3 -->
+  <rect x="40" y="290" width="800" height="80" fill="#111" stroke="#00FF7F"/>
+  <text x="50%" y="335" fill="white" font-size="20" text-anchor="middle">
+    Civic Services • Smart City • Web3 Domain Platform
+  </text>
+
+  <!-- Layer 4 -->
+  <rect x="40" y="390" width="800" height="80" fill="#111" stroke="#FF00AA"/>
+  <text x="50%" y="435" fill="white" font-size="20" text-anchor="middle">
+    AI Governance • Security Layer • Metadata Registries
+  </text>
+</svg>
