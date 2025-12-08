@@ -9,7 +9,10 @@ Part of the **TEOS Egypt Blockchain Ecosystem** — a unified civil, financial, 
 ---
 
 ## 🔰 Badges
-
+![TEOS](https://img.shields.io/badge/TEOS-Blockchain%20Empire-black?logo=solana&style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
+![Built By](https://img.shields.io/badge/Built%20By-Elmahrosa%20International-blue?style=for-the-badge)
+![License](https://img.shields.io/badge/License-Apache%202.0-orange?style=for-the-badge)
 ![TEOS](https://img.shields.io/badge/TEOS-Blockchain%20Ecosystem-gold?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-TEOS%20Gov-blue?style=for-the-badge)
