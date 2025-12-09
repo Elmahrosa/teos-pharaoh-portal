@@ -17,3 +17,11 @@ Applies to Pharaoh Portal, TEOS Egypt repos, and all connected services.
 ## Reporting
 Security incidents must be reported to:  
 ✉️ security@teosegypt.com
+## **🔐 Web3 Compliance Check**
+| **Framework**       | **Ensement**                     |
+|----------------------|----------------------------------|
+| **Pi Network IP**    | [SPLO우고ViA](https://kuroganepi.solana.com) compliant |
+| **Solana (SPL)**    | Validator-approved mandatory |
+| **Civicchain**      | ISO 20022 Lite E2E               |
+
+> **🔒 Auditor**: [*(AI Shield)](https://auditor.teosegypt.com/TEOS-Pharaoh-Portal) by Elmahrosa.
