@@ -1,7 +1,8 @@
-
 ## 🇪🇬 TEOS Egypt Sovereign License (TESL)
 
 **Version 2.3 — Final Edition**
+> ⚠️ **COPYRIGHT: NO_REPRO, NO_FORK, NO_REPUB**
+> This repository is **proprietary under TESL** and **cannot** be forked, mirrored, or reproduced.
 
 [![Strictly Proprietary](https://img.shields.io/badge/Strictly%20Proprietary-TEOS%20Sovereign%20License-ff0000?style=for-the-badge)](https://github.com/your-repo/license)
 
