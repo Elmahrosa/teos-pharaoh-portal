@@ -1,230 +1,126 @@
 # 🏛️ **TEOS Pharaoh Portal**
-
-### **The National Gateway of the TEOS Egypt Blockchain Ecosystem**
-
-**“The Pharaoh Portal — the central gateway of the TEOS Egypt ecosystem, unifying blockchain governance, identity, smart-city access, and national Web3 services.”**
-
-Part of the **TEOS Egypt Blockchain Ecosystem** — a unified civil, financial, and smart-city infrastructure powering **digital banking, civic governance, DeFi, Pi integration, and national blockchain services**.
-
-🛑 **PROPRIETARY & CONFIDENTIAL — TEOS EGYPT**
-
-Copyright © 2025 Elmahrosa International. All Rights Reserved.
-
-This material is NOT open source and is protected by the
-TEOS Egypt Sovereign License (TESL).
-
-Unauthorized use, reproduction, distribution, reverse engineering,
-or AI model training is strictly prohibited.
-
-Governing law and venue: Cairo, Arab Republic of Egypt.
-
-## 🔰 Badges
-![TEOS](https://img.shields.io/badge/TEOS-Blockchain%20Empire-black?logo=solana&style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
-![Built By](https://img.shields.io/badge/Built%20By-Elmahrosa%20International-blue?style=for-the-badge)
-![License](https://img.shields.io/badge/License-Apache%202.0-orange?style=for-the-badge)
-![TEOS](https://img.shields.io/badge/TEOS-Blockchain%20Ecosystem-gold?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
-![License](https://img.shields.io/badge/License-TEOS%20Gov-blue?style=for-the-badge)
-![Pi](https://img.shields.io/badge/Pi%20Network-Integrated-orange?style=for-the-badge)
-![Solana](https://img.shields.io/badge/Solana-SPL%20Ready-purple?style=for-the-badge)
-![AI](https://img.shields.io/badge/AI-Guardian-black?style=for-the-badge)
-![Sovereign Protected](https://img.shields.io/badge/Sovereign-Protected-red?style=for-the-badge\&logo=shield)
-![License: TEOS Egypt Sovereign](https://img.shields.io/badge/License-TEOS%20Egypt%20Sovereign-gold?style=for-the-badge\&logo=book)
-[![Contact: ayman@teosegypt.com](https://img.shields.io/badge/Contact-ayman%40teosegypt.com-green?style=for-the-badge\&logo=minutemailer)](mailto:ayman@teosegypt.com)
-[![Portal: pharaoh.teosegypt.com](https://img.shields.io/badge/Portal-pharaoh.teosegypt.com-blue?style=for-the-badge\&logo=google-chrome)](https://pharaoh.teosegypt.com)
+**Unified. Sovereign. Scalable.**
 
 ---
 
-# 🏛️ **TEOS Pharaoh Portal**
+## **📜 Executive Summary**
+TEOS is Egypt’s **foundational digital sovereignty layer**, integrating **civic identity, banking, and smart-city infrastructure** into a **compliant blockchain ecosystem**. Built for Egyptians, by Egyptians. We position Egypt as a global Web3 leader.
 
-The **TEOS Pharaoh Portal** is the **public entry point** for the entire TEOS Egypt blockchain empire.
-It combines:
-
-* Civil infrastructure
-* Digital identity
-* DeFi
-* Smart-city services
-* Governance
-* Mapping
-* Pi Network integrations
-
-…into one unified national portal powering **pharaoh.teosegypt.com**.
+### **🌍 Strategic Vision**
+Leverage **Pi Network’s 40M+ users** to drive mass adoption, creating a **pharaonic digital renaissance**—blending Nile heritage with cutting-edge blockchain tech.
 
 ---
 
-# 🚀 **Vision**
-
-A **single Egyptian digital gateway** that merges:
-
-* Decentralized Finance
-* Smart Cities
-* Civic Blockchain Infrastructure
-* Government-grade Digital Identity
-* Pi Smart Ecosystem
-* National Public Services
-* Multi-Chain Banking
-* AI-Driven Audit & Compliance
+## **✨ Why TEOS?**
+- **Sovereign by Design**: Fully compliant, Egyptian-first blockchain.
+- **One Portal for All**: Banking + identity + smart cities in a unified interface.
+- **Global Hub**: Egypt as the new **mythic Web3 powerhouse**.
 
 ---
 
-# 🧩 **Core Features**
+## **👑 TEOS Pharaoh Network**
+*Egypt’s Sovereign Layer on Pi Network*
 
-### 🌐 1. Unified Blockchain Gateway
-
-* Connects all TEOS Egypt portals & repos
-* Smart routing to Bankchain, CivicChain, Smart City, etc.
-
-### 🪪 2. Digital Identity & Access
-
-* Citizen & business sign-in
-* Wallet connect (Solana + Pi)
-* National-level identity layer
-
-### 🗺️ 3. Smart City Layer
-
-* Pi Smart City access
-* Pitaxi mobility system
-* Map of Pi (Geo-services)
-* IoT dashboards
-
-### 🏛️ 4. Civic Blockchain Services
-
-* Voting
-* Public records
-* Civic Mixer
-* Local governance
-
-### 💳 5. Finance & Banking
-
-* TEOS Bankchain
-* Digital accounts
-* KYC/AML pipelines
-* ISO 20022 rails
-* Full audit trails via AI Auditor
-
-### 🛡️ 6. National Constitution Hub
-
-* Integrates the *International Civic Blockchain Constitution*
-* Ensures public trust & transparency
-
-### 🧠 7. AI Automation
-
-* Risk scoring
-* Auto-validation
-* AI Auditor
-* Service recommendations
+**Governed by Ayman Seif**
+*Global Web3 Innovator | Toronto Consensus Member | Pi Hackathon Champion*
 
 ---
 
-# 🏗️ **Recommended Tech Stack**
+## **🔒 PROPRIETARY & CONFIDENTIAL**
+**[![Strictly Proprietary](https://img.shields.io/badge/Strictly%20Proprietary-TEOS%20Sovereign%20License-ff0000?style=for-the-badge)](https://github.com/Elmahrosa/Teos-Pharaoh-Portal/blob/main/TESL.md)**
 
-* **Frontend:** Next.js 15 + TypeScript
-* **UI:** TailwindCSS + shadcn/ui
-* **Backend:** Node.js / FastAPI / Flask
-* **Blockchain:**
-
-  * Solana (Anchor)
-  * Pi Network APIs
-  * Elmahrosa Civic Blockchain
-* **Database:** PostgreSQL / Supabase
-* **Hosting:** Vercel + DigitalOcean + Cloudflare
-* **AI:** OpenAI + TEOS AI Auditor
+> **Copyright © 2025 Elmahrosa International. All Rights Reserved.**
+> **NOT open source**.
+> **Governing Law**: Cairo, Egypt.
+> *Full License*: [TEOS Egypt Sovereign License (TESL)](https://github.com/Elmahrosa/Teos-Pharaoh-Portal/blob/main/TESL.md)
+> **Initial Author**: Elmahrosa International
 
 ---
 
-# 📂 **Project Structure**
+## **🏆 Badges**
+| **Category**          | **Badge**                                                                 |
+|-----------------------|---------------------------------------------------------------------------|
+| TEOS                 | [![](https://img.shields.io/badge/TEOS-Blockchain%20Empire-black?logo=solana)](https://pharaoh.teosegypt.com) |
+| **Status**           | [![Active](https://img.shields.io/badge/Status-Active-brightgreen)](https://status.teosegypt.com) |
+| **License**          | [![TESL](https://img.shields.io/badge/License-TEOS%20Gov-blue)](TESL.md) |
+| **Integrations**     | [![Pi](https://img.shields.io/badge/Pi-Integrated-orange)](https://medium.com/pi-core) <br> [![Solana](https://img.shields.io/badge/Solana-SPL%20Ready-purple)](https://spl.solana.com)                              |
+| **Security**         | [![AI Auditor](https://img.shields.io/badge/AI-Guardian-black)](https://auditor.teosegypt.com) <br> [![Sovereign](https://img.shields.io/badge/Protected-red?logo=shield)](https://protection.teosegypt.com) |
 
-```
-/src
-  /app
-  /components
-  /lib
-  /styles
-  /services
-
-/public
-  /assets
-  /images
-
-/docs
-  BRANDING.md
-  ARCHITECTURE.md
-  API_REFERENCE.md
-  ROADMAP.md
-  SECURITY.md
-  CONTRIBUTING.md
-  CODE_OF_CONDUCT.md
-  TRADEMARKS.md
-
-README.md
-LICENSE
-```
+**Contact**: [![ayman@teosegypt.com](https://img.shields.io/badge/Contact-ayman%40teosegypt.com-green)](mailto:ayman@teosegypt.com)
+**Portal**: [![pharaoh.teosegypt.com](https://img.shields.io/badge/Portal-pharaoh.teosegypt.com-blue?logo=googlechrome)](https://pharaoh.teosegypt.com)
 
 ---
 
-# 🔗 **Ecosystem Integrations**
+# **🏛️ TEOS Pharaoh Portal: The Unified Digital Gateway**
+The **public entry point** to Egypt’s blockchain ecosystem, combining:
+✅ **Digital Identity** (Civic & Wallet)
+✅ **Smart Cities** (Pi Network + Pitaxi)
+✅ **Banking** (TEOS Bankchain)
+✅ **Governance** (Constitution + Civic Mixer)
+✅ **Mapping** (Elmahrosa Geo)
+✅ **AI Audit** (Risk Compliance)
 
-The Pharaoh Portal links into all TEOS Egypt major systems:
-
-* **Elmahrosa Blockchain**
-* **TEOS Bankchain**
-* **Bankchain Mobile**
-* **TEOS Pi Smart City**
-* **Pitaxi Mobility**
-* **Civic Blockchain Constitution**
-* **Digital Reconstruction of Gaza**
-* **Elmahrosa Map of Pi**
-* **TEOS AI Auditor**
+### **🔗 Live Demo**
+👉 [https://pharaoh.teosegypt.com](https://pharaoh.teosegypt.com)
 
 ---
 
-# 🚀 **Deployment**
-
-### 1. Clone
-
-```bash
-git clone https://github.com/Elmahrosa/Teos-Pharaoh-Portal
-```
-
-### 2. Install
-
-```bash
-npm install
-```
-
-### 3. Development
-
-```bash
-npm run dev
-```
-
-### 4. Deploy to Vercel
-
-```bash
-vercel --prod
-```
+# **🚀 Vision**
+A **single sovereign gateway** merging:
+🔹 **DeFi** (Multi-chain banking)
+🔹 **Smart Cities** (Pi + IoT)
+🔹 **Digital Identity** (ISO 20022 KYC)
+🔹 **AI Compliance** (Automated audits)
+🔹 **Public Services** (Voting, records)
 
 ---
 
-# 👑 **Founder**
+# **🔧 Core Features**
+### 🌐 **1. Unified Blockchain Gateway**
+Smart routing to **Bankchain, CivicChain, and Pi Smart Cities**.
 
-**Ayman Seif**
-Founder & CEO — TEOS Egypt / Elmahrosa International
-Architect of compliance-first, sovereign Egyptian blockchain systems.
+### 🪪 **2. Digital Identity**
+- **Citizen/business login** (Solana + Pi Wallet)
+- **National-level identity layer**
+
+### 🗺️ **3. Smart City & Mobility**
+- **Pi Smart City** access
+- **Pitaxi mobility** integration
+- **Elmahrosa Map** (Geo-services)
+
+### 💳 **5. Banking & Compliance**
+- **TEOS Bankchain** (ISO 20022)
+- **AI Auditor** (KYC/AML)
+- **Full audit trails**
+
+### 🏛️ **6. Civic Governance**
+- **Voting** & **public records**
+- **Civic Mixer** for local policymaking
 
 ---
 
-# 📬 **Contact**
-
-✉️ **Email:** [ayman@teosegypt.com](mailto:ayman@teosegypt.com)
-🌍 **Portal:** [https://pharaoh.teosegypt.com](https://pharaoh.teosegypt.com)
+# **⚙️ Tech Stack**
+| **Layer**   | **Technology**                     |
+|-------------|------------------------------------|
+| **Frontend** | Next.js + TypeScript              |
+| **UI**      | TailwindCSS + shadcn/ui           |
+| **Backend** | Node.js / FastAPI / Flask         |
+| **Blockchain** | Solana (Anchor) + Pi Network + CivicChain |
+| **DB**      | PostgreSQL / Supabase             |
+| **AI**      | OpenAI + Custom TEOS Auditor      |
 
 ---
 
-# © **TEOS Egypt**
-
-### *The All-In-One Blockchain Empire*
-
----
-
+# **📁 Project Structure**
+```plaintext
+/TEOS-Pharaoh-Portal
+  ├── /src
+  │   ├── /app    (Next.js routes)
+  │   ├── /components (UI)
+  │   └── /lib
+  ├── /public (static assets)
+  ├── /docs
+  │   ├── ARCHITECTURE.md
+  │   └── SECURITY.md
+  ├── README.md (this file!)
+  └── TESL.md (License)
