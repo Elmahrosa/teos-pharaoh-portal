@@ -6,8 +6,17 @@
 
 **Copyright © 2025 Elmahrosa International**  
 **Status:** Proprietary / Source-Available (Founder-Only Usage)
+---
+## License
+This repository is proprietary. Usage requires written approval from TEOS Egypt. Unauthorized use is prohibited.
 
 ---
+
+## 🌱 SDG & Impact Mapping
+See how TEOS Pharaoh Portal modules align with UN Sustainable Development Goals:
+
+[SDG Mapping — PDF / Markdown](./docs/SDG-Mapping.md)
+
 
 ## 1. Purpose
 
