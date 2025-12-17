@@ -7,7 +7,7 @@
 
 See how TEOS Pharaoh Portal modules align with UN Sustainable Development Goals:
 
-[SDG Mapping — PDF / Markdown](./docs/SDG-Mapping.md)
+[SDG Mapping — PDF / Markdown](./SDG-Mapping.md)
 
 ---
 
